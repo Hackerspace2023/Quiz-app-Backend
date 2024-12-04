@@ -80,7 +80,7 @@ Create a `.env` file in the root directory and include the following:
 
 ```plaintext
 PORT=5000
-MONGO_URI=<your-mongodb-connection-string>
+MONGO_URL=<your-mongodb-connection-string>
 JWT_SECRET=<your-secret-key>
 NODE_ENV=development
 ```
